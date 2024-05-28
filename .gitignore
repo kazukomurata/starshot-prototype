@@ -1,5 +1,5 @@
 /.phpunit.result.cache
-/composer.lock
 /patches.lock.json
 /vendor
 /web
+/.idea/
